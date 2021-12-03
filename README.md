@@ -30,4 +30,6 @@
 > * Clear Stock
 > * Koszyk Cookies
 > * Search Bar Refresh Page (phpSide)
-> 
+
+## Scripts
+> * Load Page With Fragents In *.php Files
