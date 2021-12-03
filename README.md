@@ -1,0 +1,2 @@
+# Bazy
+Bazy Danych Bazy
